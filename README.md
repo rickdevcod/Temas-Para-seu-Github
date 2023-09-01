@@ -10,7 +10,17 @@
   <h3>
     Todos os temas tem a sua visualização, se algum não tiver funcionando pode ser a api do vercel.
   </h3>
+  <h4>
+    Instruções para anexar o tema no seu perfil.
+    Crie um repositório com o seu nome de usuário ✅
+    Crie um readme ✅
+    clique para editar o readme ✅
+    cole um dos links dos temas abaixo ✅ e vá em Preview para verificar se está correto ✅
+    Salve ✅ e OK ✅ 
+    Dicas, adicione uma descrição de quem é você, e seus objetivos em seu perfil! Isso agrega valor ao seu portfólio!
+  </h4>
 </div>
+
 
 Temas abaixo: 
  ![dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula]
