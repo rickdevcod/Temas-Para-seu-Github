@@ -39,5 +39,15 @@ Temas abaixo:
 ![Rick Toledo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickdevcod&show_icons=true&theme=radical&bg_color=DEG,FF0000,F6006E,0000FF&title_color=00ff00&icon_color=00ff00&text_color=00ff00)
 ![Rick Toledo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickdevcod&show_icons=true&theme=radical&bg_color=DEG,FFA500,00FF00,9400D3&title_color=00ff00&icon_color=00ff00&text_color=00ff00)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickdevcod&hide_progress=true&bg_color=DEG,FFC0CB,FFFFCC&text_color=333333)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickdevcod&hide_progress=true&bg_color=DEG,FF6B6B,FFC3A0&text_color=333333)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickdevcod&hide_progress=true&bg_color=DEG,000428,004e92&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickdevcod&hide_progress=true&bg_color=DEG,E6E6E6,F4F4F4&text_color=333333)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickdevcod&hide_progress=true&bg_color=DEG,FFAF9E,FFD3B5&text_color=333333)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickdevcod&hide_progress=true&bg_color=DEG,90E0EF,ADDBD8&text_color=333333)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickdevcod&hide_progress=true&bg_color=DEG,E3F5E1,C1F4C6&text_color=333333)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rickdevcod&hide_progress=true&bg_color=DEG,E2D2FF,BCB0FF&text_color=333333)
+
+
 
 
