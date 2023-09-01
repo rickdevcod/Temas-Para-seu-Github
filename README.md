@@ -15,6 +15,9 @@
 Temas abaixo: 
  ![dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula]
  
+ Link direto para acessar os temas:
+ https://github.com/rickdevcod/Temas-Para-seu-Github/edit/main/README.md
+ 
 ![Rick Toledo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickdevcod&show_icons=true&theme=dracula)
 ![Rick Toledo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickdevcod&show_icons=true&theme=graywhite)
 ![Rick Toledo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rickdevcod&show_icons=true&theme=radical)
