@@ -5,7 +5,7 @@
     Cada link possue um tema diferente para o seu Github
   </h1>
   <h2>
-    Apenas substitua o trecho de código que contem o nome de usuário:( rickdevcod ) pelo seu nome de usuário do Github
+    Apenas substitua o trecho de código que contem o nome de usuário ex ( rickdevcod ) pelo seu nome de usuário do Github
   </h2>
   <h3>
     Todos os temas tem a sua visualização, se algum não tiver funcionando pode ser a api do vercel.
