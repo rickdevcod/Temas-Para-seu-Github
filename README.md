@@ -15,7 +15,8 @@
     Crie um repositório com o seu nome de usuário ✅
     Crie um readme ✅
     clique para editar o readme ✅
-    cole um dos links dos temas abaixo ✅ e vá em Preview para verificar se está correto ✅
+    cole um dos links dos temas abaixo ✅ 
+    Vá em Preview para verificar se está correto ✅
     Salve ✅ e OK ✅ 
     Dicas, adicione uma descrição de quem é você, e seus objetivos em seu perfil! Isso agrega valor ao seu portfólio!
   </h4>
