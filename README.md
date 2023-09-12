@@ -18,7 +18,7 @@
     cole um dos links dos temas abaixo ✅ 
     Vá em Preview para verificar se está correto ✅
     Salve ✅ e OK ✅ 
-    Dicas, adicione uma descrição de quem é você, e seus objetivos em seu perfil! Isso agrega valor ao seu portfólio!
+    Dicas, adicione uma descrição de quem é você, e seus objetivos em seu perfil! Isso agrega valor ao seu portfólio!!
   </h4>
 </div>
 
