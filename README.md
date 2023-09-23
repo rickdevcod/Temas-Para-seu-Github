@@ -8,7 +8,7 @@
     Apenas substitua o trecho de código que contem o nome de usuário ex ( rickdevcod ) pelo seu nome de usuário do Github
   </h2>
   <h3>
-    Todos os temas tem a sua visualização, se algum não tiver funcionando pode ser a api do vercel.
+    Todos os temas tem a sua visualização, se algum não tiver funcionando pode ser a api do vercel..
   </h3>
   <h4>
     Instruções para anexar o tema no seu perfil.
